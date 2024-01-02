@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Singleton", "01. Single
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton.PrintSpooler", "Singleton.PrintSpooler\Singleton.PrintSpooler.csproj", "{B22F57E1-E47E-42C2-A9FD-12308E1B1338}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.ConnectionString", "Singleton.ConnectionString\Singleton.ConnectionString.csproj", "{F1C898F7-E41F-4CC1-9239-6F6593603794}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{B22F57E1-E47E-42C2-A9FD-12308E1B1338}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B22F57E1-E47E-42C2-A9FD-12308E1B1338}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B22F57E1-E47E-42C2-A9FD-12308E1B1338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C898F7-E41F-4CC1-9239-6F6593603794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C898F7-E41F-4CC1-9239-6F6593603794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C898F7-E41F-4CC1-9239-6F6593603794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C898F7-E41F-4CC1-9239-6F6593603794}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{267AE1D0-FEAB-42AB-985E-F1B12B592CB8} = {08FA3E75-F532-4695-8993-B162D2845301}
 		{B22F57E1-E47E-42C2-A9FD-12308E1B1338} = {267AE1D0-FEAB-42AB-985E-F1B12B592CB8}
+		{F1C898F7-E41F-4CC1-9239-6F6593603794} = {267AE1D0-FEAB-42AB-985E-F1B12B592CB8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A2AE69A-2253-4876-960E-B98317FA7FF2}
