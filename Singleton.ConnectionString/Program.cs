@@ -1,5 +1,6 @@
 ﻿using Singleton.ConnectionString;
 
+Console.WriteLine("Singleton Desing Pattern Example 2\n\n");
 
 // get connection for the first time.
 DatabaseConnection connectionSample1 = DatabaseConnection.GetConnectionDatabase();
