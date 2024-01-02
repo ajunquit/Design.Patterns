@@ -3,9 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Creational", "01. Creational", "{08FA3E75-F532-4695-8993-B162D2845301}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Structural", "02. Structural", "{88F6B31E-9550-46C8-86E5-4FD060B3B2FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Behavioral", "03. Behavioral", "{90A9782B-CB8D-4DFB-979B-1997B72B7F6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Singleton", "01. Singleton", "{267AE1D0-FEAB-42AB-985E-F1B12B592CB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton.PrintSpooler", "Singleton.PrintSpooler\Singleton.PrintSpooler.csproj", "{B22F57E1-E47E-42C2-A9FD-12308E1B1338}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B22F57E1-E47E-42C2-A9FD-12308E1B1338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22F57E1-E47E-42C2-A9FD-12308E1B1338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22F57E1-E47E-42C2-A9FD-12308E1B1338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22F57E1-E47E-42C2-A9FD-12308E1B1338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{267AE1D0-FEAB-42AB-985E-F1B12B592CB8} = {08FA3E75-F532-4695-8993-B162D2845301}
+		{B22F57E1-E47E-42C2-A9FD-12308E1B1338} = {267AE1D0-FEAB-42AB-985E-F1B12B592CB8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A2AE69A-2253-4876-960E-B98317FA7FF2}
