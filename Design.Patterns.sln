@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Payments", "Strate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Routes", "Strategy.Routes\Strategy.Routes.csproj", "{4BA87CE9-9B93-4FB5-A09F-88BD36E247ED}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Decorator", "01 Decorator", "{73A3C826-38B3-422C-93A4-F013F5D8778D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator.Coffee", "Decorator.Coffee\Decorator.Coffee.csproj", "{7EB34DBE-7A73-4C71-A29D-714D9503C148}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,10 @@ Global
 		{4BA87CE9-9B93-4FB5-A09F-88BD36E247ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BA87CE9-9B93-4FB5-A09F-88BD36E247ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BA87CE9-9B93-4FB5-A09F-88BD36E247ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB34DBE-7A73-4C71-A29D-714D9503C148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB34DBE-7A73-4C71-A29D-714D9503C148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB34DBE-7A73-4C71-A29D-714D9503C148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB34DBE-7A73-4C71-A29D-714D9503C148}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -91,6 +99,8 @@ Global
 		{43B79C93-391F-4CB0-8941-57FA7FC185FE} = {90A9782B-CB8D-4DFB-979B-1997B72B7F6A}
 		{A4D6F915-4D3E-4BAA-B78A-227659769603} = {43B79C93-391F-4CB0-8941-57FA7FC185FE}
 		{4BA87CE9-9B93-4FB5-A09F-88BD36E247ED} = {43B79C93-391F-4CB0-8941-57FA7FC185FE}
+		{73A3C826-38B3-422C-93A4-F013F5D8778D} = {88F6B31E-9550-46C8-86E5-4FD060B3B2FD}
+		{7EB34DBE-7A73-4C71-A29D-714D9503C148} = {73A3C826-38B3-422C-93A4-F013F5D8778D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A2AE69A-2253-4876-960E-B98317FA7FF2}
