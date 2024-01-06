@@ -51,6 +51,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter.ElectricCharger", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter.Temperature", "Adapter.Temperature\Adapter.Temperature.csproj", "{B6A196E8-35E3-4149-B316-C668B3280183}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter.Book", "Adapter.Book\Adapter.Book.csproj", "{E350D98E-9C50-421A-B1A2-8AB0B36527FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +111,10 @@ Global
 		{B6A196E8-35E3-4149-B316-C668B3280183}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6A196E8-35E3-4149-B316-C668B3280183}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6A196E8-35E3-4149-B316-C668B3280183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E350D98E-9C50-421A-B1A2-8AB0B36527FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E350D98E-9C50-421A-B1A2-8AB0B36527FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E350D98E-9C50-421A-B1A2-8AB0B36527FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E350D98E-9C50-421A-B1A2-8AB0B36527FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,6 +141,7 @@ Global
 		{09D9A3E3-9B6A-40C2-A301-F23F687D87F8} = {88F6B31E-9550-46C8-86E5-4FD060B3B2FD}
 		{3FFB9323-31F6-4224-8BA3-B8A508BE0E93} = {09D9A3E3-9B6A-40C2-A301-F23F687D87F8}
 		{B6A196E8-35E3-4149-B316-C668B3280183} = {09D9A3E3-9B6A-40C2-A301-F23F687D87F8}
+		{E350D98E-9C50-421A-B1A2-8AB0B36527FF} = {09D9A3E3-9B6A-40C2-A301-F23F687D87F8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A2AE69A-2253-4876-960E-B98317FA7FF2}
