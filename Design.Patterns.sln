@@ -13,31 +13,37 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Singleton", "01. Single
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton.PrintSpooler", "Singleton.PrintSpooler\Singleton.PrintSpooler.csproj", "{B22F57E1-E47E-42C2-A9FD-12308E1B1338}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.ConnectionString", "Singleton.ConnectionString\Singleton.ConnectionString.csproj", "{F1C898F7-E41F-4CC1-9239-6F6593603794}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton.ConnectionString", "Singleton.ConnectionString\Singleton.ConnectionString.csproj", "{F1C898F7-E41F-4CC1-9239-6F6593603794}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Factory Method", "02. Factory Method", "{109FB212-AFB3-40DB-B978-01112D7E5699}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod.Car", "FactoryMethod.Car\FactoryMethod.Car.csproj", "{C4FACA25-9C68-4BF5-954E-90B008F5BD05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod.Car", "FactoryMethod.Car\FactoryMethod.Car.csproj", "{C4FACA25-9C68-4BF5-954E-90B008F5BD05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod.Document", "FactoryMethod.Document\FactoryMethod.Document.csproj", "{C9082924-7E8F-468E-BE28-EC0745CBA7D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod.Document", "FactoryMethod.Document\FactoryMethod.Document.csproj", "{C9082924-7E8F-468E-BE28-EC0745CBA7D6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Single Factory", "03. Single Factory", "{154A797C-4E16-4729-8C85-7E800E9283FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleFactory.Bicycle", "SingleFactory.Bicycle\SingleFactory.Bicycle.csproj", "{E9E7553F-4037-4AC8-8AEB-F8539B2FEC69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleFactory.Bicycle", "SingleFactory.Bicycle\SingleFactory.Bicycle.csproj", "{E9E7553F-4037-4AC8-8AEB-F8539B2FEC69}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Observer", "01. Observer", "{8CE5F9FC-2475-41A6-8B15-A90541D57746}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.WeatherStation", "Observer.WeatherStation\Observer.WeatherStation.csproj", "{972CB513-54F8-4C2B-B8BB-1F157498BB17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer.WeatherStation", "Observer.WeatherStation\Observer.WeatherStation.csproj", "{972CB513-54F8-4C2B-B8BB-1F157498BB17}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Strategy", "02. Strategy", "{43B79C93-391F-4CB0-8941-57FA7FC185FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Payments", "Strategy.Payments\Strategy.Payments.csproj", "{A4D6F915-4D3E-4BAA-B78A-227659769603}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy.Payments", "Strategy.Payments\Strategy.Payments.csproj", "{A4D6F915-4D3E-4BAA-B78A-227659769603}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Routes", "Strategy.Routes\Strategy.Routes.csproj", "{4BA87CE9-9B93-4FB5-A09F-88BD36E247ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy.Routes", "Strategy.Routes\Strategy.Routes.csproj", "{4BA87CE9-9B93-4FB5-A09F-88BD36E247ED}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Decorator", "01 Decorator", "{73A3C826-38B3-422C-93A4-F013F5D8778D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator.Coffee", "Decorator.Coffee\Decorator.Coffee.csproj", "{7EB34DBE-7A73-4C71-A29D-714D9503C148}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator.Coffee", "Decorator.Coffee\Decorator.Coffee.csproj", "{7EB34DBE-7A73-4C71-A29D-714D9503C148}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Chain of Responsability", "03. Chain of Responsability", "{22DC55DB-FC5E-4D87-84E0-0162AD83D691}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsability.Validators", "ChainOfResposability.Validators\ChainOfResponsability.Validators.csproj", "{A7A6002C-72A8-4A86-A087-CE4A398C4336}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsability.Ordering", "ChainOfResponsability.Ordering\ChainOfResponsability.Ordering.csproj", "{449EA1AF-BEAF-44D6-BB68-BE087048C197}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,14 @@ Global
 		{7EB34DBE-7A73-4C71-A29D-714D9503C148}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EB34DBE-7A73-4C71-A29D-714D9503C148}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EB34DBE-7A73-4C71-A29D-714D9503C148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A6002C-72A8-4A86-A087-CE4A398C4336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A6002C-72A8-4A86-A087-CE4A398C4336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A6002C-72A8-4A86-A087-CE4A398C4336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A6002C-72A8-4A86-A087-CE4A398C4336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449EA1AF-BEAF-44D6-BB68-BE087048C197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449EA1AF-BEAF-44D6-BB68-BE087048C197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449EA1AF-BEAF-44D6-BB68-BE087048C197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449EA1AF-BEAF-44D6-BB68-BE087048C197}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,6 +115,9 @@ Global
 		{4BA87CE9-9B93-4FB5-A09F-88BD36E247ED} = {43B79C93-391F-4CB0-8941-57FA7FC185FE}
 		{73A3C826-38B3-422C-93A4-F013F5D8778D} = {88F6B31E-9550-46C8-86E5-4FD060B3B2FD}
 		{7EB34DBE-7A73-4C71-A29D-714D9503C148} = {73A3C826-38B3-422C-93A4-F013F5D8778D}
+		{22DC55DB-FC5E-4D87-84E0-0162AD83D691} = {90A9782B-CB8D-4DFB-979B-1997B72B7F6A}
+		{A7A6002C-72A8-4A86-A087-CE4A398C4336} = {22DC55DB-FC5E-4D87-84E0-0162AD83D691}
+		{449EA1AF-BEAF-44D6-BB68-BE087048C197} = {22DC55DB-FC5E-4D87-84E0-0162AD83D691}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A2AE69A-2253-4876-960E-B98317FA7FF2}
