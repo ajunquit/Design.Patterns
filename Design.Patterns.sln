@@ -43,7 +43,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Chain of Responsability
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsability.Validators", "ChainOfResposability.Validators\ChainOfResponsability.Validators.csproj", "{A7A6002C-72A8-4A86-A087-CE4A398C4336}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsability.Ordering", "ChainOfResponsability.Ordering\ChainOfResponsability.Ordering.csproj", "{449EA1AF-BEAF-44D6-BB68-BE087048C197}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsability.Authentication", "ChainOfResponsability.Ordering\ChainOfResponsability.Authentication.csproj", "{449EA1AF-BEAF-44D6-BB68-BE087048C197}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
