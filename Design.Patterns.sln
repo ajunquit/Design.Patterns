@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter.Temperature", "Adap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter.Book", "Adapter.Book\Adapter.Book.csproj", "{E350D98E-9C50-421A-B1A2-8AB0B36527FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter.DistanceInMeters", "Adapter.DistanceInMeters\Adapter.DistanceInMeters.csproj", "{FB0D2B84-58A1-472E-A01E-481313B6656A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,6 +117,10 @@ Global
 		{E350D98E-9C50-421A-B1A2-8AB0B36527FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E350D98E-9C50-421A-B1A2-8AB0B36527FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E350D98E-9C50-421A-B1A2-8AB0B36527FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0D2B84-58A1-472E-A01E-481313B6656A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0D2B84-58A1-472E-A01E-481313B6656A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0D2B84-58A1-472E-A01E-481313B6656A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0D2B84-58A1-472E-A01E-481313B6656A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -142,6 +148,7 @@ Global
 		{3FFB9323-31F6-4224-8BA3-B8A508BE0E93} = {09D9A3E3-9B6A-40C2-A301-F23F687D87F8}
 		{B6A196E8-35E3-4149-B316-C668B3280183} = {09D9A3E3-9B6A-40C2-A301-F23F687D87F8}
 		{E350D98E-9C50-421A-B1A2-8AB0B36527FF} = {09D9A3E3-9B6A-40C2-A301-F23F687D87F8}
+		{FB0D2B84-58A1-472E-A01E-481313B6656A} = {09D9A3E3-9B6A-40C2-A301-F23F687D87F8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A2AE69A-2253-4876-960E-B98317FA7FF2}
